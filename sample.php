@@ -4,11 +4,7 @@ Post :- http://directory.aussiebizonline.com.au/api/business_profile/encryt(prof
 
 Post fields – email, token 
 
-bhkjgkjgjh
 
-kgvjvgjgvbj
-
-,bjvbjvbjbv
  email,token,realName,dob,body,height,hair_color,eye_color,ethnicity,sexuality,tattoos,piercings,anal,in_out_call,outcalldistance,tourRequest,twitter,facebook,instagram,about,notice,betwenBookings,languages,licence_no,cupSize,penis_length,penis_girth,pupbicHair,circumcised,coreService,lat,lng,services,category,smoker,address,hide(for address hide/show),spa,shower,creditCard,atm,parking,massageClients,website
 
 
